@@ -1,7 +1,5 @@
 
-
                                                //ПОБИТОВЫЕ ОПЕРАЦИИ
-
 
 package com.company;
 
