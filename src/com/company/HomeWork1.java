@@ -1,3 +1,8 @@
+
+
+                                               //ПОБИТОВЫЕ ОПЕРАЦИИ
+
+
 package com.company;
 
 public class Main {
@@ -5,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-                                                    //ПОБИТОВЫЕ ОПЕРАЦИИ
+
 
 
                 //(ПЕРЕВОД В ДВОИЧНУЮ СИСТЕМУ)
