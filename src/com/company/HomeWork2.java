@@ -1,3 +1,6 @@
+
+                                             //ПОСЛЕДОВАТЕЛЬНОСТЬ ДЕЙСТВИЙ\\
+
 package com.company;
 
 public class Main {
